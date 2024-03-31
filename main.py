@@ -1,7 +1,7 @@
 import calendar, os, time
 
 print("\033[34mCALENDAR APP \033[0m")
-print("\033[30m©2024 ShabirMP Programming Project \033[0m")
+print("\033[30m©2024 Shruthi Programming Project \033[0m")
 time.sleep(4)
 os.system("clear")
 
